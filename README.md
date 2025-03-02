@@ -24,7 +24,7 @@ This project provides **hands-on experience** in:
 ✅ Cybersecurity data analysis  
 ✅ Fraud detection using Splunk  
 ✅ Network traffic investigation  
-✅ Security documentation  
+✅ Security documentation 
 
 ---
 🔗 **Note:** This is a self-paced job simulation designed to develop practical cybersecurity skills in a banking environment.  
