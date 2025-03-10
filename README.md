@@ -27,4 +27,4 @@ This project provides **hands-on experience** in:
 ✅ Security documentation 
 
 ---
-🔗 **Note:** This is a self-paced job simulation designed to develop practical cybersecurity skills in a banking environment.  
+🔗 **Note:** This is a self-paced job simulation designed to develop practical cybersecurity skills in a banking environment.
