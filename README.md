@@ -5,7 +5,7 @@ This repository contains solutions and documentation for the **Commonwealth Bank
 
 ## 📌 Quick Overview 
 **Key Skills Gained:**  
-- 📊 Cybersecurity Data Analysis  
+- 📊 Cybersecurity Data Analysis 
 - 🔍 Threat Investigation  
 - 📈 Splunk Dashboard Creation  
 - 🌐 Network Forensics  
