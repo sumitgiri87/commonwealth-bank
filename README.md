@@ -21,9 +21,9 @@ This repository contains solutions and documentation for the **Commonwealth Bank
 
 ## 🚀 About This Project  
 This project provides **hands-on experience** in:  
-✅ Cybersecurity data analysis 
-✅ Fraud detection using Splunk  
-✅ Network traffic investigation  
+✅ Cybersecurity data analysis  
+✅ Fraud detection using Splunk   
+✅ Network traffic investigation   
 ✅ Security documentation 
 
 ---
